@@ -26,7 +26,7 @@ const products = [
     id: 4,
     title: "Mens Casual Slim Fit",
     price: 15.99,
-    category: "men's clothing",
+    category: "Men's T-Shirts",
   },
 ];
 
